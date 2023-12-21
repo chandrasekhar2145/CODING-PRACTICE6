@@ -1,0 +1,25 @@
+/* Write your CSS here */
+.button {
+  background-color: #ffffff;
+  font-family: 'Roboto';
+  color: #ff0b37;
+  border-style: solid 1px #ff0b37;
+
+   padding-top: 4px;
+  padding-bottom: 4px;
+  padding-left: 8px;
+  padding-right: 8px;
+  margin-left: 16px;
+}
+
+.title {
+  color: #000000;
+  font-family: 'Roboto';
+  font-size: 16px;
+}
+
+.todo-item {
+  justify-content: space-between;
+  align-items: center;
+  list-style-type: none;
+}
